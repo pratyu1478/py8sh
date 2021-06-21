@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "thumbnail": "https://picsum.photos/300.jpg?random=1",
+        "large": "https://picsum.photos/800/600.jpg?random=1",
+        "filename": "fugit-laborum-quibusdam-perspiciatis-amet-ea-nobis.jpg",
+        "dateTaken": "2009-02-01 21:36:12"
+    },
+    {
+        "id": 2,
+        "thumbnail": "https://picsum.photos/300.jpg?random=2",
+        "large": "https://picsum.photos/800/600.jpg?random=2",
+        "filename": "dolores-vel-aut-aperiam-quae-et-neque-ut.jpg",
+        "dateTaken": "1976-08-21 11:11:07"
+    },
+    {
+        "id": 3,
+        "thumbnail": "https://picsum.photos/300.jpg?random=3",
+        "large": "https://picsum.photos/800/600.jpg?random=3",
+        "filename": "inventore-officia-beatae-autem-voluptas-rerum-voluptas-aut.jpg",
+        "dateTaken": "1975-02-01 19:24:26"
+    },
+    {
+        "id": 4,
+        "thumbnail": "https://picsum.photos/300.jpg?random=4",
+        "large": "https://picsum.photos/800/600.jpg?random=4",
+        "filename": "tenetur-nesciunt-quae-itaque-nihil-ut-sed-qui-a.jpg",
+        "dateTaken": "2000-05-14 21:47:59"
+    },
+    {
+        "id": 5,
+        "thumbnail": "https://picsum.photos/300.jpg?random=5",
+        "large": "https://picsum.photos/800/600.jpg?random=5",
+        "filename": "ea-et-et-fugiat-quisquam-aut.jpg",
+        "dateTaken": "1971-02-14 20:14:36"
+    },
+    {
+        "id": 6,
+        "thumbnail": "https://picsum.photos/300.jpg?random=6",
+        "large": "https://picsum.photos/800/600.jpg?random=6",
+        "filename": "qui-neque-tempore-fugit-voluptas-maiores-placeat.jpg",
+        "dateTaken": "1987-12-06 12:56:30"
+    },
+    {
+        "id": 7,
+        "thumbnail": "https://picsum.photos/300.jpg?random=7",
+        "large": "https://picsum.photos/800/600.jpg?random=7",
+        "filename": "assumenda-culpa-incidunt-et-et.jpg",
+        "dateTaken": "2002-05-05 01:35:34"
+    },
+    {
+        "id": 8,
+        "thumbnail": "https://picsum.photos/300.jpg?random=8",
+        "large": "https://picsum.photos/800/600.jpg?random=8",
+        "filename": "corporis-quas-ex-et-dolorem-numquam-sit.jpg",
+        "dateTaken": "2006-07-10 07:03:00"
+    },
+    {
+        "id": 9,
+        "thumbnail": "https://picsum.photos/300.jpg?random=9",
+        "large": "https://picsum.photos/800/600.jpg?random=9",
+        "filename": "sint-harum-suscipit-voluptatem-in-quam.jpg",
+        "dateTaken": "1972-01-08 07:36:30"
+    },
+    {
+        "id": 10,
+        "thumbnail": "https://picsum.photos/300.jpg?random=10",
+        "large": "https://picsum.photos/800/600.jpg?random=10",
+        "filename": "voluptatem-sint-illum-eos-odit.jpg",
+        "dateTaken": "2019-11-05 03:42:23"
+    },
+    {
+        "id": 11,
+        "thumbnail": "https://picsum.photos/300.jpg?random=11",
+        "large": "https://picsum.photos/800/600.jpg?random=11",
+        "filename": "aut-nostrum-ut-sed-dolorum-illum-atque.jpg",
+        "dateTaken": "1996-01-18 04:26:22"
+    },
+    {
+        "id": 12,
+        "thumbnail": "https://picsum.photos/300.jpg?random=12",
+        "large": "https://picsum.photos/800/600.jpg?random=12",
+        "filename": "maxime-nulla-iste-laboriosam-corrupti-dolor-est.jpg",
+        "dateTaken": "2017-10-20 08:01:31"
+    },
+    {
+        "id": 13,
+        "thumbnail": "https://picsum.photos/300.jpg?random=13",
+        "large": "https://picsum.photos/800/600.jpg?random=13",
+        "filename": "veniam-at-reiciendis-culpa-et.jpg",
+        "dateTaken": "2005-09-13 23:05:02"
+    },
+    {
+        "id": 14,
+        "thumbnail": "https://picsum.photos/300.jpg?random=14",
+        "large": "https://picsum.photos/800/600.jpg?random=14",
+        "filename": "ut-magnam-nemo-impedit-voluptatem-hic-ea.jpg",
+        "dateTaken": "2013-10-08 18:19:25"
+    },
+    {
+        "id": 15,
+        "thumbnail": "https://picsum.photos/300.jpg?random=15",
+        "large": "https://picsum.photos/800/600.jpg?random=15",
+        "filename": "in-consequuntur-non-nam.jpg",
+        "dateTaken": "1982-10-17 19:58:53"
+    },
+    {
+        "id": 16,
+        "thumbnail": "https://picsum.photos/300.jpg?random=16",
+        "large": "https://picsum.photos/800/600.jpg?random=16",
+        "filename": "consequatur-sed-rem-cumque-facilis.jpg",
+        "dateTaken": "2006-07-19 19:52:54"
+    },
+    {
+        "id": 17,
+        "thumbnail": "https://picsum.photos/300.jpg?random=17",
+        "large": "https://picsum.photos/800/600.jpg?random=17",
+        "filename": "expedita-inventore-voluptatem-veniam-molestiae.jpg",
+        "dateTaken": "1983-03-20 16:38:53"
+    },
+    {
+        "id": 18,
+        "thumbnail": "https://picsum.photos/300.jpg?random=18",
+        "large": "https://picsum.photos/800/600.jpg?random=18",
+        "filename": "exercitationem-quas-reprehenderit-atque-aspernatur.jpg",
+        "dateTaken": "2007-04-07 21:44:23"
+    },
+    {
+        "id": 19,
+        "thumbnail": "https://picsum.photos/300.jpg?random=19",
+        "large": "https://picsum.photos/800/600.jpg?random=19",
+        "filename": "sit-non-delectus-maxime-magni.jpg",
+        "dateTaken": "1994-04-03 06:21:04"
+    },
+    {
+        "id": 20,
+        "thumbnail": "https://picsum.photos/300.jpg?random=20",
+        "large": "https://picsum.photos/800/600.jpg?random=20",
+        "filename": "est-dolor-exercitationem-iste-cumque-nesciunt-eaque-veritatis-reiciendis.jpg",
+        "dateTaken": "1971-11-30 00:15:25"
+    }
+]
